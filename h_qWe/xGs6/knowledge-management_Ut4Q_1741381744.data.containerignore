@@ -1,6 +1,5 @@
 *
 !build
-!electron
 !public
 !src
 !package.json
