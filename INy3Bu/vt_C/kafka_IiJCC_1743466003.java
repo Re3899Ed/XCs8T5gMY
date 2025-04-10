@@ -1,5 +1,4 @@
 package com.heibaiying;
-
 import org.apache.flink.api.java.operators.DataSource;
 import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
