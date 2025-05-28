@@ -384,7 +384,6 @@ variable-naming-style=snake_case
 check-quote-consistency=no
 
 # This flag controls whether the implicit-str-concat should generate a warning
-# on implicit string concatenation in sequences defined over several lines.
 check-str-concat-over-line-jumps=no
 
 
