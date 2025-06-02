@@ -2,4 +2,3 @@
 /temp/
 !*.d.ts
 *.radata
-isolate-*
