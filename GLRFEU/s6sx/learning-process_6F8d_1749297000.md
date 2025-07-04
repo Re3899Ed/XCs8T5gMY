@@ -22,7 +22,6 @@ to do this once to work on any of Meta's open source projects.
 Complete your CLA here: <https://code.facebook.com/cla>
 
 ## Issues
-We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
 
 Meta has a [bounty program](https://www.facebook.com/whitehat/) for the safe
