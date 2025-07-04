@@ -26,6 +26,5 @@ Meta has a [bounty program](https://www.facebook.com/whitehat/) for the safe
 disclosure of security bugs. In those cases, please go through the process
 outlined on that page and do not file a public issue.
 
-## License
 By contributing to encodec, you agree that your contributions will be licensed
 under the LICENSE file in the root directory of this source tree.
