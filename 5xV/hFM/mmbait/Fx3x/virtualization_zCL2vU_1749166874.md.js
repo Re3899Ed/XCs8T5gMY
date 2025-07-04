@@ -25,7 +25,6 @@ if (env === 'commonjs' || env === 'es') {
     ],
   };
 
-  if (env === 'commonjs') {
     module.exports.plugins.push('@babel/plugin-transform-modules-commonjs');
   }
 }
