@@ -8,5 +8,4 @@ tests
 .circleci
 .devcontainer
 *.tgz
-log.txt
 docker/Dockerfile.*
