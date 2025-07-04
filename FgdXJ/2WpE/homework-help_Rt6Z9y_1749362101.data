@@ -31,7 +31,6 @@
         }
  
         document.querySelector('#__next > div > div > div > nav')?.remove() // Remove the left sidebar
-        document.querySelector('#__next > div > div > div > div > header')?.remove() // Remove the new header
         document.querySelector('#D_B1')?.remove() // Remove the new advertisement at the bottom
  
  
