@@ -17,7 +17,6 @@
     setTimeout(function () {
         let elem;
  
-        // Main page formatting
         elem = document.querySelector("#__next > div > div > div");
         if (elem) elem.style.margin = 0; // Removes auto centering of content
         document.querySelector("#chegg-main-content > form")?.remove(); // Removes the search box at the top of the page
