@@ -6,7 +6,6 @@ possible.
 AudioCraft is the implementation of a research paper.
 Therefore, we do not plan on accepting many pull requests for new features.
 We certainly welcome them for bug fixes.
-
 1. Fork the repo and create your branch from `main`.
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
