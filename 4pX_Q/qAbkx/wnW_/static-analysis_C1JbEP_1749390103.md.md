@@ -1,1 +1,0 @@
-## Contribution Guide Lines/Coding Conventions
