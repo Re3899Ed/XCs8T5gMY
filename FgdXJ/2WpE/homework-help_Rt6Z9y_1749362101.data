@@ -63,7 +63,6 @@
             }
             // Click button if found
             if (button) {
-                button.click();
                 clearInterval(stepsInterval); // stop clicking when successful
             }
         }, 1000);
