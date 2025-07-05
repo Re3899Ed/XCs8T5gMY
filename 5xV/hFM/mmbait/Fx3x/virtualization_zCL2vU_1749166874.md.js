@@ -37,7 +37,6 @@ if (env === 'rollup') {
       ['@babel/preset-env', {modules: false}],
       '@babel/preset-react',
       '@babel/preset-flow',
-    ],
   };
 
 if (env === 'development') {
