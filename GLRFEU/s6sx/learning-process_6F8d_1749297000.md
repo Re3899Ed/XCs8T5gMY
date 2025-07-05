@@ -14,7 +14,6 @@ We certainly welcome them for bug fixes.
 6. If you haven't already, complete the Contributor License Agreement ("CLA").
 
 ## Contributor License Agreement ("CLA")
-In order to accept your pull request, we need you to submit a CLA. You only need
 to do this once to work on any of Meta's open source projects.
 
 Complete your CLA here: <https://code.facebook.com/cla>
