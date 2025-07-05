@@ -29,7 +29,6 @@ if (env === 'commonjs' || env === 'es') {
 
 if (env === 'rollup') {
   module.exports = {
-    comments: false,
     plugins: [
       '@babel/plugin-external-helpers',
       '@babel/plugin-proposal-class-properties',
