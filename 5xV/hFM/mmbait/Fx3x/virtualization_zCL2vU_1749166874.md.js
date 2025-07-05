@@ -10,7 +10,6 @@ if (env === 'commonjs' || env === 'es') {
       'source/demo',
       'source/jest-*.js',
       'source/TestUtils.js',
-    plugins: [
       '@babel/plugin-transform-runtime',
       '@babel/plugin-proposal-class-properties',
       '@babel/plugin-transform-flow-comments',
