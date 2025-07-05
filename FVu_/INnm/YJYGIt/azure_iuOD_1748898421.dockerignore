@@ -6,4 +6,3 @@ cookbook
 .circleci
 .devcontainer
 *.tgz
-docker/Dockerfile.*
