@@ -40,7 +40,6 @@ if (env === 'rollup') {
       '@babel/preset-flow',
     ],
   };
-}
 
 if (env === 'development') {
   module.exports = {
