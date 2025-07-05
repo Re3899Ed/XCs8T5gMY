@@ -2,7 +2,6 @@
   <component name="FacetManager">
     <facet type="java-gradle" name="Java-Gradle">
         <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
-      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
