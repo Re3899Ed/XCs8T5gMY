@@ -1,6 +1,5 @@
 docs
 .circleci
 .git
-.github
 .devcontainer
 *.tgz
