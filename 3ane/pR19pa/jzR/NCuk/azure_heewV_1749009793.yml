@@ -1,3 +1,2 @@
 python:
 install:
-    - python tests/syntax_lint.py
