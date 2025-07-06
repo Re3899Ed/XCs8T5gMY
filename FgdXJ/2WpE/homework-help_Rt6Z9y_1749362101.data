@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Clean Chegg
 // @description  Formats Chegg pages nicely
-// @author       bhackel
 // @homepageURL  https://github.com/bhackel/cheggbog
 // @match        https://*.chegg.com/homework-help/*
 // @icon         https://www.google.com/s2/favicons?domain=chegg.com
