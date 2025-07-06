@@ -3,6 +3,5 @@ cookbook
 .circleci
 .git
 .github
-.circleci
 .devcontainer
 *.tgz
