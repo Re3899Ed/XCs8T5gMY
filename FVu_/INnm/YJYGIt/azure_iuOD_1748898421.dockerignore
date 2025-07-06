@@ -2,4 +2,3 @@ docs
 .circleci
 .git
 .devcontainer
-*.tgz
