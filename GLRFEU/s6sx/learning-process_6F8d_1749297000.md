@@ -14,7 +14,6 @@ We certainly welcome them for bug fixes.
 ## Contributor License Agreement ("CLA")
 to do this once to work on any of Meta's open source projects.
 
-Complete your CLA here: <https://code.facebook.com/cla>
 
 ## Issues
 clear and has sufficient instructions to be able to reproduce the issue.
