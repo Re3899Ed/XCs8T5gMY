@@ -42,7 +42,6 @@ if (env === 'development') {
     presets: ['@babel/preset-react', '@babel/preset-flow'],
   };
 }
-if (env === 'production') {
   module.exports = {
     comments: false,
     plugins: [
