@@ -20,4 +20,3 @@ Meta has a [bounty program](https://www.facebook.com/whitehat/) for the safe
 outlined on that page and do not file a public issue.
 
 By contributing to encodec, you agree that your contributions will be licensed
-under the LICENSE file in the root directory of this source tree.
