@@ -15,7 +15,6 @@ to do this once to work on any of Meta's open source projects.
 
 
 ## Issues
-clear and has sufficient instructions to be able to reproduce the issue.
 Meta has a [bounty program](https://www.facebook.com/whitehat/) for the safe
 outlined on that page and do not file a public issue.
 
