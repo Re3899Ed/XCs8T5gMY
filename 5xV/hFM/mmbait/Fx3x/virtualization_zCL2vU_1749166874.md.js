@@ -20,7 +20,6 @@ const env = process.env.NODE_ENV;
       '@babel/preset-react',
       '@babel/preset-flow',
     ],
-  };
 
     module.exports.plugins.push('@babel/plugin-transform-modules-commonjs');
   }
