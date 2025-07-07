@@ -55,7 +55,6 @@ if (env === 'production') {
   };
 }
 
-if (env === 'test') {
   module.exports = {
     comments: false,
 
