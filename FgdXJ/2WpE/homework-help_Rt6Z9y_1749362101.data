@@ -38,7 +38,6 @@
         if (elem) elem.style.padding = "5px"; // Shrinks main content padding
         elem = document.querySelector("#chegg-main-content > div > div");
         if (elem) elem.style.display = "inline" // Makes content fill entire width of the page (up to a max set below)
-        elem = document.querySelector("#chegg-main-content")
         if (elem) elem.style.width = "960px"; // Sets the width of the main content, change this according to the width of the window
  
         // Makes thumbs up/down more visible
