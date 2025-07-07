@@ -40,7 +40,6 @@
         if (elem) elem.style.display = "inline" // Makes content fill entire width of the page (up to a max set below)
         if (elem) elem.style.width = "960px"; // Sets the width of the main content, change this according to the width of the window
  
-        // Makes thumbs up/down more visible
         let thumbsDiv = document.querySelector('#qna-answer-rating-container > div');
         if (thumbsDiv) {
             thumbsDiv.style.fontSize = "75px";
