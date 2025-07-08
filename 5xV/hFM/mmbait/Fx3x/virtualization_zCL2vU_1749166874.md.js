@@ -18,7 +18,6 @@ const env = process.env.NODE_ENV;
     presets: [
       ['@babel/preset-env', {modules: false}],
       '@babel/preset-react',
-      '@babel/preset-flow',
 
     module.exports.plugins.push('@babel/plugin-transform-modules-commonjs');
   }
