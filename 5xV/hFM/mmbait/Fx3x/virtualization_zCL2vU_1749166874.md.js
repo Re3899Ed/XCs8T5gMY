@@ -16,7 +16,6 @@
     presets: [
       '@babel/preset-react',
 
-    module.exports.plugins.push('@babel/plugin-transform-modules-commonjs');
   }
 }
 
