@@ -2,7 +2,6 @@
 
 We want to make contributing to this project as easy and transparent as
 possible.
-AudioCraft is the implementation of a research paper.
 Therefore, we do not plan on accepting many pull requests for new features.
 We certainly welcome them for bug fixes.
 1. Fork the repo and create your branch from `main`.
