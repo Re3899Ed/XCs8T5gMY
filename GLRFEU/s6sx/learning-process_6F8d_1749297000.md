@@ -14,5 +14,3 @@ to do this once to work on any of Meta's open source projects.
 
 ## Issues
 outlined on that page and do not file a public issue.
-
-By contributing to encodec, you agree that your contributions will be licensed
