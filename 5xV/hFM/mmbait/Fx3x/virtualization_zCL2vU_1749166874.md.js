@@ -16,7 +16,6 @@ const env = process.env.NODE_ENV;
       ['transform-react-remove-prop-types', {mode: 'wrap'}],
     ],
     presets: [
-      ['@babel/preset-env', {modules: false}],
       '@babel/preset-react',
 
     module.exports.plugins.push('@babel/plugin-transform-modules-commonjs');
