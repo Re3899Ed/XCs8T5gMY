@@ -3,7 +3,6 @@
     ignore: [
       '*.jest.js',
       '*.e2e.js',
-      '*.ssr.js',
       '*.example.js',
       'source/demo',
       'source/jest-*.js',
