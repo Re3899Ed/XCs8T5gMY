@@ -38,7 +38,6 @@ if (env === 'development') {
     presets: ['@babel/preset-react', '@babel/preset-flow'],
   };
 }
-  module.exports = {
     comments: false,
     plugins: [
       '@babel/plugin-transform-runtime',
