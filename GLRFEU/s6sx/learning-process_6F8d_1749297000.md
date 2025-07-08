@@ -8,7 +8,6 @@ We certainly welcome them for bug fixes.
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes.
 6. If you haven't already, complete the Contributor License Agreement ("CLA").
-
 ## Contributor License Agreement ("CLA")
 to do this once to work on any of Meta's open source projects.
 
