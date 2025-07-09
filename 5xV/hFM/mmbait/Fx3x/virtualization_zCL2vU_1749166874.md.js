@@ -22,7 +22,6 @@
 if (env === 'rollup') {
   module.exports = {
     plugins: [
-      '@babel/plugin-external-helpers',
       '@babel/plugin-proposal-class-properties',
     ],
     presets: [
