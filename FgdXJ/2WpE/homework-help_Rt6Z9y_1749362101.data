@@ -1,5 +1,4 @@
 // ==UserScript==
-// @name         Clean Chegg
 // @description  Formats Chegg pages nicely
 // @homepageURL  https://github.com/bhackel/cheggbog
 // @match        https://*.chegg.com/homework-help/*
