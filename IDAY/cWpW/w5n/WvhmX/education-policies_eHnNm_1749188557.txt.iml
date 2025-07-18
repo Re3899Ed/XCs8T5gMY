@@ -4,6 +4,5 @@
   </component>
     <output url="file://$MODULE_DIR$/build/classes/main" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
   </component>
