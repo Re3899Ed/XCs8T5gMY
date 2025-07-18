@@ -10,7 +10,6 @@
  
 (function () {
     'use strict';
-    setTimeout(function () {
         let elem;
  
         if (elem) elem.style.margin = 0; // Removes auto centering of content
