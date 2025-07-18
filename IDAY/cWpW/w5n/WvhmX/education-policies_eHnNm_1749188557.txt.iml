@@ -2,7 +2,6 @@
     <facet type="java-gradle" name="Java-Gradle">
         <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/build/classes/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
