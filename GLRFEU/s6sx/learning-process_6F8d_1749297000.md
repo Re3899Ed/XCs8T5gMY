@@ -8,6 +8,5 @@ We certainly welcome them for bug fixes.
 ## Contributor License Agreement ("CLA")
 to do this once to work on any of Meta's open source projects.
 
-
 ## Issues
 outlined on that page and do not file a public issue.
