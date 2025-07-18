@@ -70,5 +70,4 @@
             }
         }
  
-    }, 4000) // Increase this delay for slower internet connections and page loading times
 })();
