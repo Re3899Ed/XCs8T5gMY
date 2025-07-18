@@ -20,7 +20,6 @@
 }
 
 if (env === 'rollup') {
-    plugins: [
       '@babel/plugin-proposal-class-properties',
     ],
     presets: [
