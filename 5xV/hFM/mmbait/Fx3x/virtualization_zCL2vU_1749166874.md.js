@@ -1,4 +1,3 @@
-
   module.exports = {
     ignore: [
       '*.jest.js',
