@@ -11,7 +11,6 @@
       '@babel/plugin-transform-flow-comments',
       ['flow-react-proptypes', {deadCode: true, useESModules: true}],
       ['transform-react-remove-prop-types', {mode: 'wrap'}],
-    ],
       '@babel/preset-react',
 
   }
