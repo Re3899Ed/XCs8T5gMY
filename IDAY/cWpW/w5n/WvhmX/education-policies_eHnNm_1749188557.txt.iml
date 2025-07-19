@@ -1,5 +1,4 @@
   <component name="FacetManager">
-    <facet type="java-gradle" name="Java-Gradle">
         <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
   </component>
     <output url="file://$MODULE_DIR$/build/classes/main" />
