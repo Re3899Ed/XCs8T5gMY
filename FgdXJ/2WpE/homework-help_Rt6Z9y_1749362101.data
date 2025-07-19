@@ -16,7 +16,6 @@
         document.querySelector("#__next > div > div > div > header")?.remove(); // Removes the title bar at the top of the page
         document.querySelector("#chegg-main-content > div > div > div:nth-child(2)")?.remove(); // Removes the right sidebar
         document.querySelector("#__next > div > footer")?.remove() // Removes the footer
-        document.querySelector("#chegg-main-content > div > div > div > div > div:nth-child(3)")?.remove(); // Removes "Post a Question" box
         document.querySelector("#__next > div > div > nav")?.remove() // Removes side navigation bar
         const link = window.location.href;
         if (link.startsWith("https://www.chegg.com/homework-help/questions-and-answers/")) {
