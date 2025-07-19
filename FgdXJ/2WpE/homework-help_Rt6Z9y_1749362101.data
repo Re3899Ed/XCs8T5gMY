@@ -4,7 +4,6 @@
 // @match        https://*.chegg.com/homework-help/*
 // @icon         https://www.google.com/s2/favicons?domain=chegg.com
 // @namespace    https://github.com/bhackel/cheggbog
-// @license      MIT
 // @grant        none
 // ==/UserScript==
  
