@@ -2,7 +2,6 @@ possible.
 Therefore, we do not plan on accepting many pull requests for new features.
 We certainly welcome them for bug fixes.
 3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
 ## Contributor License Agreement ("CLA")
 to do this once to work on any of Meta's open source projects.
 
