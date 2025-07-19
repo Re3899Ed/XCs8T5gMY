@@ -54,7 +54,6 @@
                 clearInterval(stepsInterval); // stop clicking when successful
             }
         }, 1000);
- 
         // Increase size of images when they are small for some reason
         elem = document.querySelector('#chegg-main-content > div > div > div > div > div:nth-child(2) > section')
         if (elem) {
