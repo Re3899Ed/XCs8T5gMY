@@ -40,7 +40,6 @@
             const divs = document.getElementsByTagName("div");
             // Loop through all divs and find the one with text "All steps"
             for (let i = 0; i < divs.length; i++) {
-                if (divs[i].textContent === "All steps") {
                     button = divs[i];
                     break;
                 }
