@@ -14,7 +14,6 @@
         if (elem) elem.style.margin = 0; // Removes auto centering of content
         document.querySelector("#chegg-main-content > form")?.remove(); // Removes the search box at the top of the page
         document.querySelector("#__next > div > div > div > header")?.remove(); // Removes the title bar at the top of the page
-        document.querySelector("#chegg-main-content > div > div > div:nth-child(2)")?.remove(); // Removes the right sidebar
         document.querySelector("#__next > div > footer")?.remove() // Removes the footer
         document.querySelector("#__next > div > div > nav")?.remove() // Removes side navigation bar
         const link = window.location.href;
