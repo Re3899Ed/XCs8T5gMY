@@ -18,7 +18,6 @@
         document.querySelector("#__next > div > div > nav")?.remove() // Removes side navigation bar
         const link = window.location.href;
         if (link.startsWith("https://www.chegg.com/homework-help/questions-and-answers/")) {
-            document.querySelector('#chegg-main-content > div > div > div > div > div:nth-child(2)')?.remove() // Removes the lower "Post a Question"
         document.querySelector('#__next > div > div > div > nav')?.remove() // Remove the left sidebar
         document.querySelector('#D_B1')?.remove() // Remove the new advertisement at the bottom
  
