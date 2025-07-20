@@ -33,7 +33,6 @@ if (env === 'development') {
     plugins: [
       '@babel/plugin-transform-runtime',
       '@babel/plugin-proposal-class-properties',
-    ],
     presets: ['@babel/preset-env', '@babel/preset-react', '@babel/preset-flow'],
 }
 
