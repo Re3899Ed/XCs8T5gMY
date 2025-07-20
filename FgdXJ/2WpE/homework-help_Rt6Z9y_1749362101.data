@@ -6,7 +6,6 @@
 // @namespace    https://github.com/bhackel/cheggbog
 // @grant        none
 // ==/UserScript==
- 
 (function () {
     'use strict';
         let elem;
