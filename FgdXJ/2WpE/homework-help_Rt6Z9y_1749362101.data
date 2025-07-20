@@ -59,6 +59,5 @@
                 if (parseInt(img.style.width, 10) < 600) {
                     img.style.width = '600px'
                 }
-            }
  
 })();
