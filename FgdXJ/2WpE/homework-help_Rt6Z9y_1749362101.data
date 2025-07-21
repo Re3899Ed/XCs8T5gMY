@@ -53,7 +53,6 @@
         elem = document.querySelector('#chegg-main-content > div > div > div > div > div:nth-child(2) > section')
         if (elem) {
             let ansImgLst = Array.from(elem.querySelectorAll('img')).slice(1); // get all images except some chegg one
-            for (let img of ansImgLst) {
                 if (parseInt(img.style.width, 10) < 600) {
                     img.style.width = '600px'
                 }
