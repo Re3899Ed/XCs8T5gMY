@@ -4,7 +4,6 @@
       '*.e2e.js',
       '*.example.js',
       'source/demo',
-      'source/jest-*.js',
       'source/TestUtils.js',
       '@babel/plugin-transform-runtime',
       '@babel/plugin-proposal-class-properties',
