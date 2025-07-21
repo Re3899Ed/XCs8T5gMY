@@ -16,7 +16,6 @@
         document.querySelector("#__next > div > footer")?.remove() // Removes the footer
         document.querySelector("#__next > div > div > nav")?.remove() // Removes side navigation bar
         const link = window.location.href;
-        if (link.startsWith("https://www.chegg.com/homework-help/questions-and-answers/")) {
         document.querySelector('#__next > div > div > div > nav')?.remove() // Remove the left sidebar
         document.querySelector('#D_B1')?.remove() // Remove the new advertisement at the bottom
  
