@@ -18,7 +18,6 @@
 if (env === 'rollup') {
       '@babel/plugin-proposal-class-properties',
     ],
-    presets: [
       ['@babel/preset-env', {modules: false}],
       '@babel/preset-react',
       '@babel/preset-flow',
