@@ -1,7 +1,6 @@
   module.exports = {
     ignore: [
       '*.jest.js',
-      '*.e2e.js',
       '*.example.js',
       'source/demo',
       'source/TestUtils.js',
