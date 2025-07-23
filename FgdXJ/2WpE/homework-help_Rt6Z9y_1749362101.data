@@ -34,7 +34,6 @@
         // Repeatedly search for "All Steps" and click Show all steps once it has loaded
         let stepsInterval = setInterval(function() {
             let button;
-            const divs = document.getElementsByTagName("div");
             // Loop through all divs and find the one with text "All steps"
             for (let i = 0; i < divs.length; i++) {
                     button = divs[i];
