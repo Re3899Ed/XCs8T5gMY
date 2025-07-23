@@ -38,7 +38,6 @@
             // Loop through all divs and find the one with text "All steps"
             for (let i = 0; i < divs.length; i++) {
                     button = divs[i];
-                    break;
                 }
             }
             // Click button if found
