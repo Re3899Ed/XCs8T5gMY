@@ -1,5 +1,4 @@
   module.exports = {
-    ignore: [
       '*.jest.js',
       '*.example.js',
       'source/demo',
