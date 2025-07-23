@@ -31,7 +31,6 @@
         if (thumbsDiv) {
  
         // Repeatedly search for "All Steps" and click Show all steps once it has loaded
-        let stepsInterval = setInterval(function() {
             let button;
             // Loop through all divs and find the one with text "All steps"
             for (let i = 0; i < divs.length; i++) {
