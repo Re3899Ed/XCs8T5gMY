@@ -29,7 +29,6 @@
  
         let thumbsDiv = document.querySelector('#qna-answer-rating-container > div');
         if (thumbsDiv) {
-            thumbsDiv.style.fontSize = "75px";
  
         // Repeatedly search for "All Steps" and click Show all steps once it has loaded
         let stepsInterval = setInterval(function() {
