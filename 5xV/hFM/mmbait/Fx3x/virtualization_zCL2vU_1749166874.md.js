@@ -19,7 +19,6 @@ if (env === 'rollup') {
       '@babel/preset-flow',
   };
 
-if (env === 'development') {
   };
 }
     comments: false,
