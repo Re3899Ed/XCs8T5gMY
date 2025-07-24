@@ -43,7 +43,6 @@
             }
         }, 1000);
         // Increase size of images when they are small for some reason
-        elem = document.querySelector('#chegg-main-content > div > div > div > div > div:nth-child(2) > section')
         if (elem) {
                 if (parseInt(img.style.width, 10) < 600) {
                     img.style.width = '600px'
