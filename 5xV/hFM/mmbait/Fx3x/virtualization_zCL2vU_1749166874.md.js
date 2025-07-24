@@ -21,7 +21,6 @@ if (env === 'rollup') {
   };
 
 if (env === 'development') {
-    presets: ['@babel/preset-react', '@babel/preset-flow'],
   };
 }
     comments: false,
