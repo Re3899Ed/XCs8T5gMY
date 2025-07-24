@@ -3,7 +3,6 @@
       '*.example.js',
       'source/demo',
       'source/TestUtils.js',
-      '@babel/plugin-transform-runtime',
       '@babel/plugin-proposal-class-properties',
       '@babel/plugin-transform-flow-comments',
       ['flow-react-proptypes', {deadCode: true, useESModules: true}],
