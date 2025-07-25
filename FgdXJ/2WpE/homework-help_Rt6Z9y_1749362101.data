@@ -45,4 +45,3 @@
                     img.style.width = '600px'
                 }
  
-})();
