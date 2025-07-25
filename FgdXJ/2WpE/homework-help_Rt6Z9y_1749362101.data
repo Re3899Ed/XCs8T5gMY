@@ -5,7 +5,6 @@
 // ==/UserScript==
     'use strict';
         let elem;
- 
         if (elem) elem.style.margin = 0; // Removes auto centering of content
         document.querySelector("#chegg-main-content > form")?.remove(); // Removes the search box at the top of the page
         document.querySelector("#__next > div > div > div > header")?.remove(); // Removes the title bar at the top of the page
