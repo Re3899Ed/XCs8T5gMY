@@ -3,4 +3,3 @@ skip_list:
 verbosity: 1
 
   - no-handler
-  - var-spacing
