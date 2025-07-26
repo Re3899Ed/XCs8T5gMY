@@ -1,4 +1,3 @@
   "output": "CHANGELOG.md",
   "template": "keepachangelog",
-  "commitLimit": false
 }
