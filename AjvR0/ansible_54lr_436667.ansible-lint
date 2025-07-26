@@ -1,6 +1,5 @@
 skip_list:
   - yaml
-  - '204'
 verbosity: 1
 
   - no-handler
