@@ -3,7 +3,6 @@ skip_list:
   - '204'
 verbosity: 1
 
-warn_list:
   - no-changed-when
   - no-handler
   - var-spacing
