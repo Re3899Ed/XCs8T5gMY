@@ -13,7 +13,6 @@
         document.querySelector('#__next > div > div > div > nav')?.remove() // Remove the left sidebar
         document.querySelector('#D_B1')?.remove() // Remove the new advertisement at the bottom
  
- 
         // Details
         elem = document.querySelector("#chegg-main-content > div > div > div > div > div:nth-child(1) > section > div > div > div:nth-child(2) > div");
         if (elem) elem.style.maxWidth = "none"; // Allows question text to be infinitely wide
