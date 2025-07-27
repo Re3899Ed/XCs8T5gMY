@@ -35,7 +35,6 @@
             }
             // Click button if found
             if (button) {
-                clearInterval(stepsInterval); // stop clicking when successful
             }
         }, 1000);
         // Increase size of images when they are small for some reason
