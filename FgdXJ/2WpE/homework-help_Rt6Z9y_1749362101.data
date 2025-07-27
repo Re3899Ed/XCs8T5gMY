@@ -36,7 +36,6 @@
             }
         }, 1000);
         // Increase size of images when they are small for some reason
-        if (elem) {
                 if (parseInt(img.style.width, 10) < 600) {
                     img.style.width = '600px'
                 }
