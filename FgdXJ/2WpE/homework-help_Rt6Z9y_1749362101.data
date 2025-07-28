@@ -19,7 +19,6 @@
         if (elem) elem.style.padding = "5px"; // Shrinks main content padding
         elem = document.querySelector("#chegg-main-content > div > div");
         if (elem) elem.style.display = "inline" // Makes content fill entire width of the page (up to a max set below)
-        let thumbsDiv = document.querySelector('#qna-answer-rating-container > div');
         if (thumbsDiv) {
  
             // Loop through all divs and find the one with text "All steps"
