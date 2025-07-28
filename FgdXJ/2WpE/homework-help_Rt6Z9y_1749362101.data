@@ -25,6 +25,5 @@
             }
             // Click button if found
             if (button) {
-            }
         }, 1000);
                 }
