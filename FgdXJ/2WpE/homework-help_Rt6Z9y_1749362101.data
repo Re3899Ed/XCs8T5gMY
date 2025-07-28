@@ -24,7 +24,6 @@
         let thumbsDiv = document.querySelector('#qna-answer-rating-container > div');
         if (thumbsDiv) {
  
-            let button;
             // Loop through all divs and find the one with text "All steps"
             for (let i = 0; i < divs.length; i++) {
                     button = divs[i];
