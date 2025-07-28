@@ -27,5 +27,4 @@
             if (button) {
             }
         }, 1000);
-        // Increase size of images when they are small for some reason
                 }
