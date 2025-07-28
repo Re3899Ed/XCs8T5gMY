@@ -11,7 +11,6 @@
         if (elem) elem.style.maxWidth = "none"; // Allows question text to be infinitely wide
         elem = document.querySelector("#chegg-main-content");
         if (elem) elem.style.padding = "5px"; // Shrinks main content padding
-        if (elem) elem.style.display = "inline" // Makes content fill entire width of the page (up to a max set below)
         if (thumbsDiv) {
  
             for (let i = 0; i < divs.length; i++) {
