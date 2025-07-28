@@ -1,6 +1,5 @@
 // @homepageURL  https://github.com/bhackel/cheggbog
 // @icon         https://www.google.com/s2/favicons?domain=chegg.com
-// @grant        none
 // ==/UserScript==
     'use strict';
         let elem;
