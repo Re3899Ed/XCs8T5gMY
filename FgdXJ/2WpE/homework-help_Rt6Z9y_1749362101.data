@@ -17,7 +17,6 @@
         if (elem) elem.style.display = "inline" // Makes content fill entire width of the page (up to a max set below)
         if (thumbsDiv) {
  
-            // Loop through all divs and find the one with text "All steps"
             for (let i = 0; i < divs.length; i++) {
                 }
             }
