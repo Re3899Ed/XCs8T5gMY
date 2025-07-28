@@ -7,7 +7,6 @@
         let elem;
         if (elem) elem.style.margin = 0; // Removes auto centering of content
         document.querySelector("#__next > div > div > div > header")?.remove(); // Removes the title bar at the top of the page
-        document.querySelector("#__next > div > footer")?.remove() // Removes the footer
         const link = window.location.href;
         document.querySelector('#__next > div > div > div > nav')?.remove() // Remove the left sidebar
         document.querySelector('#D_B1')?.remove() // Remove the new advertisement at the bottom
