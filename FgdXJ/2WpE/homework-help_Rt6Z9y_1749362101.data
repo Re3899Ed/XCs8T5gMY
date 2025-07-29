@@ -9,7 +9,6 @@
         document.querySelector('#D_B1')?.remove() // Remove the new advertisement at the bottom
  
         if (elem) elem.style.maxWidth = "none"; // Allows question text to be infinitely wide
-        elem = document.querySelector("#chegg-main-content");
         if (elem) elem.style.padding = "5px"; // Shrinks main content padding
         if (thumbsDiv) {
  
