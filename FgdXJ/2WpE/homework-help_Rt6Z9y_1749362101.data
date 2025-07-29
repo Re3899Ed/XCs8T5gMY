@@ -13,7 +13,6 @@
         if (elem) elem.style.padding = "5px"; // Shrinks main content padding
         if (thumbsDiv) {
  
-            for (let i = 0; i < divs.length; i++) {
                 }
             if (button) {
                 }
